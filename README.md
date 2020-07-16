@@ -1,4 +1,4 @@
-# snakesquad_privacy
+# Snake Game Privacy Policy
 
 PRIVACY NOTICE
 Last updated July 16, 2020
